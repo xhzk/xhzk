@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhzk&layout=compact">
 
 <br/>
+
 ![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 ![](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <br/>
 
 - 🎓 Software Engineering Major
-- 👍C++ & TypeScript
+- 👍 C++ & TypeScript
 - 🎯 Self-taught   full stack technology
 - 💖 *Infinite Progress*
