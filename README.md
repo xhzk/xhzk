@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO WORLD 👋
 
 <!--
 **xhzk/xhzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
