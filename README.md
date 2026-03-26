@@ -30,6 +30,6 @@
 <br/>
 
 - 🎓 Software Engineering Major
-- 👍 C++ & TypeScript
+- 👍 Flutter & TypeScript
 - 🎯 Self-taught   full stack technology
 - 💖 *Infinite Progress*
